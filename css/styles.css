@@ -1,0 +1,50 @@
+            /* #region Global */
+body{
+    background: #fff;
+    font-family: 'Roboto', sans-serif;
+    color: #434455;
+}
+h1, h2, h3, h4, h5, h6, p{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+a{
+    text-decoration: none;
+}
+ul, ol{
+    list-style-type: none;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
+}
+
+img{
+    display: block;
+    max-width: 100%;
+}
+
+.container {
+    width: 100%;
+    margin: 0 auto;
+}
+
+
+/*.section{
+   padding: 72px 16px;
+   max-width: 320px;
+   margin: 0 auto;
+}*/
+
+input,
+textarea,
+button {
+    font-family: inherit;
+    line-height: inherit;
+}
+textarea {
+    resize: none;
+}
+
+            /* #endregion Global */
+
+           
